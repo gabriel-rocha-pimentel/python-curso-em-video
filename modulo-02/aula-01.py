@@ -11,8 +11,6 @@ print('{} \n '
 
 # --- QUESTIONÁRIO ---
 
-# --- QUESTIONÁRIO ---
-
 valor_casa = float(input('Qual o valor da casa : R$'))
 valor = float(input('Qual é o seu salário mensal : R$'))
 tempo = int(input('Por quanto tempo quer financiar : '))
