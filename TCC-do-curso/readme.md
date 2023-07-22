@@ -16,7 +16,7 @@ Para utilizar o Julio Cypher, siga as etapas abaixo:
 
 1. Certifique-se de ter o Python instalado em seu computador.
 
-2. Faça o download do código-fonte do projeto a partir do repositório [GitHub do Julio Cypher](https://github.com/gabriel-rocha-pimentel/Python/TCC-do-curso).
+2. Faça o download do código-fonte do projeto a partir do repositório [GitHub do Julio Cypher](https://github.com/gabriel-rocha-pimentel/Python/tree/main/TCC-do-curso).
 
 3. Abra o terminal e navegue até o diretório onde o código-fonte foi baixado.
 
